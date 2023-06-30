@@ -1,0 +1,14 @@
+Aulas de SQL Supermódulo
+
+Aula 01
+https://docs.google.com/presentation/d/1o-QBfimfms1zyNbMaESJRCFMDqH7fGaHqZ_G2ZXry4A/edit#slide=id.g2488875f40e_0_163
+
+
+
+Aula 02
+https://docs.google.com/presentation/d/1qnZqt_MbwA9AVcy-vDlqIEjoPxUfA16pS0mYjAU5mmU/edit#slide=id.p
+https://dontpad.com/aula2sql
+
+Aula 03
+https://docs.google.com/presentation/d/1wDjk7W0CUDeKWOCcXmcG6j03wQLE7JRZO44njzZ-L2w/edit#slide=id.g251238d703a_2_172
+https://dontpad.com/mysqlaula03
